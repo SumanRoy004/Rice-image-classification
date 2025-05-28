@@ -7,7 +7,7 @@
    - Accuracy of the model is 99%.
 
 ## Deployment
-This application deployed with streamlit :
+This application is deployed with streamlit :
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://rice-image-classification-efpsawblvhhhxu5entsjq8.streamlit.app/)
 
